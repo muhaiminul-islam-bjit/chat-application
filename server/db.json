@@ -23,6 +23,24 @@
       "password": "$2a$10$wCOmmEgQW2EulRNNDm07C.6Kcv6fEtgXmyli7OpZlun2cFW5nvzz2",
       "name": "muhaimin",
       "id": 4
+    },
+    {
+      "email": "momin@gmail.com",
+      "password": "$2a$10$l0P5GYtffdEEYzH74uD6/usL.1GO2fTmPqlNrsvW0lrVAeTYtryYa",
+      "name": "Momin",
+      "id": 5
+    },
+    {
+      "email": "mamun@gmail.com",
+      "password": "$2a$10$Mw6aQ4627QPGpuJGZ2wL.O9p1Xl1ch4Zz8Ll3oZb5E/K6G5EDLP16",
+      "name": "mamun",
+      "id": 6
+    },
+    {
+      "email": "ikhlas@gmail.com",
+      "password": "$2a$10$BJxr3lWa5Rc7VE3mo0zKheV53Pq3WVDPvPEfsaFpV0i9OO4qjPFNW",
+      "name": "ikhlas",
+      "id": 7
     }
   ],
   "conversations": [
